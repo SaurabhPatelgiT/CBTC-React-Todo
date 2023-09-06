@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CBTC-React-Todo/static/css/main.54305396.css",
+    "main.js": "/CBTC-React-Todo/static/js/main.f2e4b54f.js",
+    "index.html": "/CBTC-React-Todo/index.html",
+    "main.54305396.css.map": "/CBTC-React-Todo/static/css/main.54305396.css.map",
+    "main.f2e4b54f.js.map": "/CBTC-React-Todo/static/js/main.f2e4b54f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54305396.css",
+    "static/js/main.f2e4b54f.js"
+  ]
+}
